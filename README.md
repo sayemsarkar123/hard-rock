@@ -1,2 +1,3 @@
 # hard-rock-solution
-api link: https://api.lyrics.ovh/suggest/summer
+
+Live Link: https://sayemsarkar123.github.io/hard-rock/
